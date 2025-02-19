@@ -42,7 +42,7 @@ Opção de filtro: Permite a seleção de diferentes vendedores para comparaçã
 
 Coleta e organização dos dados:
 
-Importação de dados brutos de diferentes fontes (banco de dados SQL, Excel, etc.).
+Importação de dados brutos do Excel.
 
 Limpeza e tratamento dos dados para garantir sua consistência.
 
