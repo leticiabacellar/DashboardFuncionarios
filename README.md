@@ -1,23 +1,23 @@
-Dashboard de Acompanhamento de Vendas
+# Dashboard de Acompanhamento de Vendas
 
-📌 Descrição do Projeto
+## 📌 Descrição do Projeto
 
 Este projeto consiste em um Dashboard de Acompanhamento de Vendas, desenvolvido para monitorar o desempenho de vendedores e lojas. Ele apresenta informações relevantes sobre faturamento, total de pedidos, ticket médio e distribuição geográfica das vendas.
 
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 O objetivo deste dashboard é fornecer uma visão clara e interativa sobre os resultados de vendas, permitindo que gestores e vendedores analisem o desempenho de forma intuitiva e identifiquem oportunidades de melhoria.
 
 
-🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 Power BI (para a construção dos dashboards e visualização dos dados)
 
 Excel (a base)
 
 
-📊 O que o Dashboard Apresenta?
+## 📊 O que o Dashboard Apresenta?
 
 Perfil do vendedor: Mostra a foto e o nome do vendedor que está sendo analisado.
 
@@ -38,7 +38,7 @@ Detalhamento por loja: Tabela com os resultados de vendas por unidade.
 Opção de filtro: Permite a seleção de diferentes vendedores para comparação de desempenho.
 
 
-🔍 Passo a Passo do Desenvolvimento
+## 🔍 Passo a Passo do Desenvolvimento
 
 Coleta e organização dos dados:
 
@@ -65,7 +65,7 @@ Testes para garantir que os dados e gráficos estejam corretos.
 Refinamento do design para tornar a visualização intuitiva.
 
 
-📌 Conclusão
+## 📌 Conclusão
 
 Este dashboard permite uma análise eficiente do desempenho de vendas, proporcionando insights valiosos para tomada de decisões. Com ele, gestores podem identificar os melhores vendedores, lojas mais lucrativas e padrões de venda ao longo do tempo, facilitando a definição de estratégias para aumentar o faturamento.
 
